@@ -60,18 +60,18 @@ const Projects = () => {
 
 export const project = [
     {
-        title:'Co People',
-        description:'Co People is a dynamic web application I crafted using React, Node JS and React. This project is a modern and engaging social platform that allows users to connect, share content and interact seamlessly.',
+        title:'nextwork-web-project',
+        description:'Co People is a simple web application I crafted using Java, Apache and tomcat. This project is another of my learning schemes.',
         image: {vpn},
-        git:'https://github.com/nithingooud/CoPeople',
-        technologies:['MongoDb' ,'ReactJS' , 'NodeJS']
+        git:'https://github.com/blazino17/nextwork-web-project',
+        technologies:['Java' ,'CI/CD' , 'Apache']
     },
     {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that I exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
-        image: {copeople},
-        git:"https://github.com/nithingooud/vpn_studios",
-        technologies:[ 'React JS', 'tailwind CSS']
+        title:'Mernstack',
+        description:'Mernstack is a simple Todo list project .',
+        image: {mernstack},
+        git:"https://github.com/blazino17/mernstack",
+        technologies:[ 'React JS', 'MongoDB']
     }
 ]
 
